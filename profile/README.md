@@ -37,7 +37,7 @@ Quectel core development frameworks provide foundations for building application
 | -------------------------- | ---------- |
 | Python IoT Framework       | QuecPython |
 | MCU‑Module Interaction SDK | UniKnect   |
-| Quectel Pi SDK             | Quectel Pi |
+| UniRTOS SDK                | UniRTOS    |
 
 # Product Lines
 
@@ -45,12 +45,9 @@ Quectel core development frameworks provide foundations for building application
 
 >  4G LTE / 5G NR / Cat.1 / NB‑IoT，面向工业、车载、安防等蜂窝联网场景 
 
-| Repo                         | Description                                                  | Language |
-| ---------------------------- | ------------------------------------------------------------ | -------- |
-| `quectel‑cellular‑sdk`       | Host MCU SDK for cellular modules, AT driver & host examples | C        |
-| `quectel‑at‑examples`        | AT command usage examples for cellular series                | C/Python |
-| `quectel‑5g‑demos`           | 5G high‑speed data, RMNet, QMI application demos             | C        |
-| `quectel‑cat1‑nbiot‑samples` | Cat.1 / NB‑IoT low‑power typical scenarios sample code       | C        |
+| Repo                  | Description                                   | Language |
+| --------------------- | --------------------------------------------- | -------- |
+| `quectel‑at‑examples` | AT command usage examples for cellular series | C/Python |
 
 ##  🛰️ GNSS Positioning Modules
 
@@ -68,21 +65,17 @@ Quectel core development frameworks provide foundations for building application
 | `quectel‑wifi‑ble‑sdk` | Wi‑Fi & BLE application framework & peripheral demos        | C        |
 | `quectel‑ble‑examples` | BLE broadcast, connection, transparent transmission samples | C        |
 
-##  🧠 Smart Embedded Modules 
+##  🧠 Smart IoT
 
-| Repo                  | Description                               | Language |
-| --------------------- | ----------------------------------------- | -------- |
-| `quecpython`          | QuecPython 官方运行时 & component library | Python/C |
-| `quectel‑opencpu‑sdk` | OpenCPU C/C++ base SDK                    | C/C++    |
-| `quecpython‑examples` | QuecPython rich scenario sample projects  | Python   |
+| Repo         | Description                               | Language |
+| ------------ | ----------------------------------------- | -------- |
+| `Quectel Pi` | QuecPython 官方运行时 & component library | Python/C |
 
-##  ☁️ Cloud & Middleware SDK
+##  ☁️ Cloud Business
 
-| Repo                        | Description                                                | Language |
-| --------------------------- | ---------------------------------------------------------- | -------- |
-| `uniknect`                  | Cross‑platform host‑module interaction SDK                 | C        |
-| `quectel‑cloud‑sdk`         | Multi‑cloud access SDK for IoT devices                     | C        |
-| `quectel‑common‑components` | General drivers, protocol components for all product lines | C        |
+| Repo                | Description                            | Language |
+| ------------------- | -------------------------------------- | -------- |
+| `quectel‑cloud‑sdk` | Multi‑cloud access SDK for IoT devices | C        |
 
 ## More
 
