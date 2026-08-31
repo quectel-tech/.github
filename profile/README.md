@@ -26,7 +26,7 @@ You can also check the official documentation:
 - 📖 [QuecPython Documentation](https://www.quectel.com.cn/quecpython/document_center)
 - 📖 [DevBoard and Hardware](https://www.quectel.com.cn/devboard_and_hardware)
 
-If you have technical questions, visit our **[Developer Forum](https://forumschinese.quectel.com/) **.
+If you have technical questions, visit our **[Developer Forum](https://forumschinese.quectel.com/)**.
 
 ## Core Development Frameworks
 
