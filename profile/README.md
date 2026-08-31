@@ -1,6 +1,6 @@
 ![](./Quectel_logo_Slogan.png)
 
->  [English](./README.md) | [中文版本](./README_ZH.md)
+[English](./README.md) | [中文版本](./README_ZH.md)
 
 # Welcome to Quectel on GitHub
 
