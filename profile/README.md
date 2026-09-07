@@ -33,11 +33,11 @@ If you have technical questions, visit our  💬 **[Developer Forum](https://for
 
 Quectel core development frameworks provide foundations for building applications on Quectel cellular / smart modules, supporting C/C++ and Python‑based development.
 
-| Framework                  | Project                 |
-| -------------------------- | ----------------------- |
-| Python IoT Framework       | QuecPython              |
-| MCU‑Module Interaction SDK | UniKnect                |
-| UniRTOS SDK                | [UniRTOS](./unirtos.md) |
+| Framework                  | Project                                        |
+| -------------------------- | ---------------------------------------------- |
+| Python IoT Framework       | [QuecPython](https://github.com/quecpython)    |
+| MCU‑Module Interaction SDK | [UniKnect](https://github.com/quectel-develop) |
+| UniRTOS SDK                | [UniRTOS](./unirtos.md)                        |
 
 # Product Lines
 
