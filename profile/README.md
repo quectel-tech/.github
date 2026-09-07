@@ -47,21 +47,6 @@ Quectel core development frameworks provide foundations for building application
 | ------------------------------------------- | ------------------------------------------------------------ | -------- |
 | [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi is built upon Quectel’s years of industry expertise, offering a family of intelligent controller boards integrated with rich software features to deliver high‑performance, low‑power embedded solutions for IoT and edge computing. | Python/C |
 
-##  📶 Cellular Modules
-
->  4G LTE / 5G NR / Cat.1 / NB‑IoT for cellular networking scenarios such as industry, vehicle‑mounted applications, and security surveillance.
-
-| Repo | Description | Language |
-| ---- | ----------- | -------- |
-|      |             |          |
-
-##  🛰️ GNSS Positioning Modules
-
-| Repo | Description | Language |
-| ---- | ----------- | -------- |
-|      |             |          |
-|      |             |          |
-
 ##  📻 Short‑range Wireless
 
 >  Wi‑Fi / Bluetooth / BLE
