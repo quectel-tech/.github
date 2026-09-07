@@ -45,7 +45,7 @@ Quectel core development frameworks provide foundations for building application
 
 | Repo                                        | Description                                                  | Language |
 | ------------------------------------------- | ------------------------------------------------------------ | -------- |
-| [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi is built upon Quectel’s years of industry expertise, offering a family of intelligent controller boards integrated with rich software features to deliver high‑performance, low‑power embedded solutions for IoT and edge computing. | Python/C |
+| [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi offers intelligent controller boards with full software for high‑performance, low‑power IoT and edge‑computing embedded solutions. | Python/C |
 
 ##  📻 Short‑range Wireless
 
