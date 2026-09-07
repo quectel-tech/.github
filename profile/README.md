@@ -43,7 +43,7 @@ Quectel core development frameworks provide foundations for building application
 
 ##  📶 Cellular Modules
 
->  4G LTE / 5G NR / Cat.1 / NB‑IoT，面向工业、车载、安防等蜂窝联网场景 
+>  4G LTE / 5G NR / Cat.1 / NB‑IoT for cellular networking scenarios such as industry, vehicle‑mounted applications, and security surveillance.
 
 | Repo                  | Description                                   | Language |
 | --------------------- | --------------------------------------------- | -------- |
@@ -67,9 +67,9 @@ Quectel core development frameworks provide foundations for building application
 
 ##  🧠 Smart IoT
 
-| Repo         | Description                               | Language |
-| ------------ | ----------------------------------------- | -------- |
-| `Quectel Pi` | QuecPython 官方运行时 & component library | Python/C |
+| Repo         | Description                      | Language |
+| ------------ | -------------------------------- | -------- |
+| `Quectel Pi` | running time & component library | Python/C |
 
 ##  ☁️ Cloud Business
 
