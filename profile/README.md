@@ -73,9 +73,9 @@ Quectel core development frameworks provide foundations for building application
 
 ##  ☁️ Cloud Business
 
-| Repo | Description | Language |
-| ---- | ----------- | -------- |
-|      |             |          |
+> Quectel IoT Platform — One‑stop Access for Your Accelerated Smart Connectivity.
+
+Welcome visit:  [艾络迅 - 科技连接未来](https://aiot.quectel.com/) 
 
 ## More
 
