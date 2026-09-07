@@ -66,10 +66,7 @@ Quectel core development frameworks provide foundations for building application
 
 >  Wi‑Fi / Bluetooth / BLE
 
-| Repo | Description | Language |
-| ---- | ----------- | -------- |
-|      |             |          |
-|      |             |          |
+Welcome visit:  [Quectel ShortRange Documentation Center](https://developer.quectel.com/doc/shortrange/index.html) 
 
 ##  ☁️ Cloud Business
 
