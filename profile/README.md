@@ -45,37 +45,37 @@ Quectel core development frameworks provide foundations for building application
 
 >  4G LTE / 5G NR / Cat.1 / NB‑IoT for cellular networking scenarios such as industry, vehicle‑mounted applications, and security surveillance.
 
-| Repo                  | Description                                   | Language |
-| --------------------- | --------------------------------------------- | -------- |
-| `quectel‑at‑examples` | AT command usage examples for cellular series | C/Python |
+| Repo | Description | Language |
+| ---- | ----------- | -------- |
+|      |             |          |
 
 ##  🛰️ GNSS Positioning Modules
 
-| Repo                       | Description                                 | Language |
-| -------------------------- | ------------------------------------------- | -------- |
-| `quectel‑gnss‑demos`       | Position parsing, NMEA, RTK correction demo | C        |
-| `quectel‑gnss‑host‑driver` | MCU side driver for GNSS modules            | C        |
+| Repo | Description | Language |
+| ---- | ----------- | -------- |
+|      |             |          |
+|      |             |          |
 
 ##  📻 Short‑range Wireless
 
 >  Wi‑Fi / Bluetooth / BLE
 
-| Repo                   | Description                                                 | Language |
-| ---------------------- | ----------------------------------------------------------- | -------- |
-| `quectel‑wifi‑ble‑sdk` | Wi‑Fi & BLE application framework & peripheral demos        | C        |
-| `quectel‑ble‑examples` | BLE broadcast, connection, transparent transmission samples | C        |
+| Repo | Description | Language |
+| ---- | ----------- | -------- |
+|      |             |          |
+|      |             |          |
 
 ##  🧠 Smart IoT
 
-| Repo         | Description                      | Language |
-| ------------ | -------------------------------- | -------- |
-| `Quectel Pi` | running time & component library | Python/C |
+| Repo                                        | Description                                                  | Language |
+| ------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi is built upon Quectel’s years of industry expertise, offering a family of intelligent controller boards integrated with rich software features to deliver high‑performance, low‑power embedded solutions for IoT and edge computing. | Python/C |
 
 ##  ☁️ Cloud Business
 
-| Repo                | Description                            | Language |
-| ------------------- | -------------------------------------- | -------- |
-| `quectel‑cloud‑sdk` | Multi‑cloud access SDK for IoT devices | C        |
+| Repo | Description | Language |
+| ---- | ----------- | -------- |
+|      |             |          |
 
 ## More
 
