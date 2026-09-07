@@ -41,6 +41,12 @@ Quectel core development frameworks provide foundations for building application
 
 # Product Lines
 
+## 🧠 Smart IoT
+
+| Repo                                        | Description                                                  | Language |
+| ------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi is built upon Quectel’s years of industry expertise, offering a family of intelligent controller boards integrated with rich software features to deliver high‑performance, low‑power embedded solutions for IoT and edge computing. | Python/C |
+
 ##  📶 Cellular Modules
 
 >  4G LTE / 5G NR / Cat.1 / NB‑IoT for cellular networking scenarios such as industry, vehicle‑mounted applications, and security surveillance.
@@ -64,12 +70,6 @@ Quectel core development frameworks provide foundations for building application
 | ---- | ----------- | -------- |
 |      |             |          |
 |      |             |          |
-
-##  🧠 Smart IoT
-
-| Repo                                        | Description                                                  | Language |
-| ------------------------------------------- | ------------------------------------------------------------ | -------- |
-| [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi is built upon Quectel’s years of industry expertise, offering a family of intelligent controller boards integrated with rich software features to deliver high‑performance, low‑power embedded solutions for IoT and edge computing. | Python/C |
 
 ##  ☁️ Cloud Business
 
