@@ -49,7 +49,7 @@ Quectel core development frameworks provide foundations for building application
 
 ##  📻 Short‑range Wireless
 
->  Wi‑Fi / Bluetooth / BLE
+>  Wi‑Fi / BLE
 
 Welcome visit:  [Quectel ShortRange Documentation Center](https://developer.quectel.com/doc/shortrange/index.html) 
 
