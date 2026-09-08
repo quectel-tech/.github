@@ -57,7 +57,7 @@ Welcome visit:  [Quectel ShortRange Documentation Center](https://developer.quec
 
 > Quectel IoT Platform — One‑stop Access for Your Accelerated Smart Connectivity.
 
-Welcome visit:  [艾络迅 - 科技连接未来](https://aiot.quectel.com/) 
+Welcome visit:  [Acceleronix - Integrated IoT Platform and Connectivity](https://www.acceleronix.io/)
 
 ## More
 
