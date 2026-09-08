@@ -1,6 +1,6 @@
 ![](./Quectel_logo_Slogan.png)
 
-[English](./README\.md) | [中文版本](\./README\_ZH\.md\)
+[English](./README\.md) | [中文版本](./README_ZH.md)
 
 # 欢迎来到移远通信 GitHub 主页
 
