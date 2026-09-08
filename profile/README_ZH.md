@@ -38,3 +38,28 @@
 | MCU‑Module Interaction SDK | [UniKnect](https://github.com/quectel-develop) |
 | UniRTOS SDK                | [UniRTOS](https://github.com/unirtos)          |
 
+# 产品线
+
+## 🧠 智慧物联网
+
+| Repo                                        | Description                                                  | Language |
+| ------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi 提供搭载全套软件的智能控制板，面向高性能、低功耗物联网与边缘计算嵌入式解决方案。 | Python/C |
+
+##  📻 无线短距离
+
+>  Wi‑Fi / BLE
+
+欢迎访问： [Quectel ShortRange Documentation Center](https://developer.quectel.com/doc/shortrange/index.html) 
+
+##  ☁️ 物联网云平台
+
+> 艾络迅™飞鸢物联网平台一站式接入，快速实现您的智能互联之旅
+
+欢迎访问：[艾络迅 - 科技连接未来](https://aiot.quectel.com/) 
+
+## 更多
+
+ 如需进一步了解我们的开发框架、解决方案与代码库，请前往项目页面查看各项目简要说明。 
+
+🏢  如需了解移远通信的全系列产品与服务，请访问我们的官方网站：https://www.quectel.com.cn/。 

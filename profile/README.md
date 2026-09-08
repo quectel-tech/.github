@@ -61,6 +61,7 @@ Welcome visit:  [Acceleronix - Integrated IoT Platform and Connectivity](https:/
 
 ## More
 
-To know more about our frameworks, solutions and libraries, see brief explanation for our projects on **Quectel Projects Page**.
+To know more about our frameworks, solutions and libraries, see brief explanation for our projects on Quectel Projects Page.
 
 🏢 To learn about full range of products and services that Quectel offers, please visit our official website [quectel.com.cn](https://www.quectel.com.cn/).
+
