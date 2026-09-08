@@ -51,7 +51,7 @@
 
 >  Wi‑Fi / BLE
 
-欢迎访问： [Quectel ShortRange Documentation Center](https://developer.quectel.com/doc/shortrange/index.html) 
+欢迎访问：[ShortRange - ShortRange](https://developer.quectel.com/doc/shortrange/zh/index.html) 
 
 ##  ☁️ 物联网云平台
 
