@@ -8,3 +8,33 @@
 🏢 物联网整体解决方案全球供应商 \| 中国上海
 
 🌐 官方网站：[https://www\.quectel\.com\.cn/](https://www.quectel.com.cn/)
+
+# 活动
+
+2026 移远物联网开发者大会将展示端侧人工智能、5G‑AI 座舱融合、机器人以及扩展现实（XR）解决方案。敬请关注最新会议议程、技术工坊及线上回放。
+
+更多详情，请访问我们的官方活动页面。
+
+## 快速上手
+
+如需开始使用移远物联网解决方案，请访问[移远官网](https://www.quectel.com.cn/)。开发者门户提供方案专题文章、产品发布公告、版本说明、技术工坊资料以及活动资讯。
+
+您也可查阅官方文档：
+
+- 📖 [Quectel Pi 文档中心 ](https://www.quectel.com.cn/quectel‑pi/documentation-center)
+- 📖 [QuecPython 文档中心 ](https://www.quectel.com.cn/quecpython/document_center)
+- 📖 [开发板与硬件 ](https://www.quectel.com.cn/devboard_and_hardware)
+- 📖 [下载专区](https://www.quectel.com.cn/download‑zone)
+
+如遇到技术问题，请访问💬[官方开发者社区](https://forumschinese.quectel.com/)。
+
+## ⚡ 核心开发框架
+
+ 移远核心开发框架为基于移远蜂窝模组 / 智能模组开发应用提供底层支撑，支持 C/C++ 以及 Python 开发。 
+
+| 开发框架                   | 项目                                           |
+| -------------------------- | ---------------------------------------------- |
+| Python IoT Framework       | [QuecPython](https://github.com/quecpython)    |
+| MCU‑Module Interaction SDK | [UniKnect](https://github.com/quectel-develop) |
+| UniRTOS SDK                | [UniRTOS](https://github.com/unirtos)          |
+
