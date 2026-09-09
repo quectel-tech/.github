@@ -53,12 +53,6 @@ Quectel core development frameworks provide foundations for building application
 
 Welcome visit:  [Quectel ShortRange Documentation Center](https://developer.quectel.com/doc/shortrange/index.html) 
 
-##  ☁️ Cloud Business
-
-> Quectel IoT Platform — One‑stop Access for Your Accelerated Smart Connectivity.
-
-Welcome visit:  [Acceleronix - Integrated IoT Platform and Connectivity](https://www.acceleronix.io/)
-
 ## More
 
 To know more about our frameworks, solutions and libraries, see brief explanation for our projects on Quectel Projects Page.
