@@ -25,7 +25,7 @@
 - 📖 [开发板与硬件 ](https://www.quectel.com.cn/devboard_and_hardware)
 - 📖 [下载专区](https://www.quectel.com.cn/download‑zone)
 
-如遇到技术问题，请访问💬[官方开发者社区](https://forumschinese.quectel.com/)。
+如遇到技术问题，请访问 💬[官方开发者社区](https://forumschinese.quectel.com/)。
 
 ## ⚡ 核心开发框架
 
