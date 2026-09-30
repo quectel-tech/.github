@@ -1,84 +1,73 @@
-![](./Quectel_logo_Slogan.png)
+![](./media/Quectel_Ecosystem_banner.jpeg)
 
-[English](./README.md) | [中文版本](./README_ZH.md)
+# 欢迎来到移远通信 GitHub 主页
 
-# Welcome to Quectel on GitHub
+移远通信所有面向蜂窝、智能、短距离、GNSS 以及 AIoT 模块的官方软件、软件开发工具包、演示项目与工具链均托管于该 GitHub 组织下。
 
-All Quectel official software, SDKs, demo projects and toolchains for cellular, smart, short‑range, GNSS and AIoT modules are hosted within this GitHub organization.
+🏢 物联网整体解决方案全球供应商 \| 中国上海
 
-🏢 Global supplier of IoT overall solutions | Shanghai, China 
+🌐 官方网站：[https://www\.quectel\.com\.cn/](https://www.quectel.com.cn/)
 
-🌐 Official Site: https://www.quectel.com.cn/ 
+# 活动
 
-## Events
+2026 移远物联网开发者大会将展示端侧人工智能、5G‑AI 座舱融合、机器人以及扩展现实（XR）解决方案。敬请关注最新会议议程、技术工坊及线上回放。
 
-Quectel IoT Developer Conference 2026 showcases end‑side AI, 5G‑AI cockpit integration, robotics and XR solutions. Stay tuned for latest agenda, technical workshops and online replay.
+更多详情，请访问我们的官方活动页面。
 
-For more information visit our official event page.
+## 快速上手
 
-## Get Started
+如需开始使用移远物联网解决方案，请访问[移远官网](https://www.quectel.com.cn/)。开发者门户提供方案专题文章、产品发布公告、版本说明、技术工坊资料以及活动资讯。
 
-To get started with Quectel IoT solutions, visit our **[Developer Portal](https://www.quectel.com.cn/)**. The Developer Portal includes solution articles, product announcements, release notes, workshop materials and event information.
+您也可查阅官方文档：
 
-You can also check the official documentation:
+- 📖 [Quectel Pi 文档中心 ](https://www.quectel.com.cn/quectel‑pi/documentation-center)
+- 📖 [QuecPython 文档中心 ](https://www.quectel.com.cn/quecpython/document_center)
+- 📖 [开发板与硬件 ](https://www.quectel.com.cn/devboard_and_hardware)
+- 📖 [下载专区](https://www.quectel.com.cn/download‑zone)
 
-- 📖 [Quectel Pi Documentation](https://www.quectel.com.cn/quectel-pi/documentation-center)
-- 📖 [QuecPython Documentation](https://www.quectel.com.cn/quecpython/document_center)
-- 📖 [DevBoard and Hardware](https://www.quectel.com.cn/devboard_and_hardware)
-- 📖 [Download Zone](https://www.quectel.com.cn/download-zone)
+如遇到技术问题，请访问 💬[官方开发者社区](https://forumschinese.quectel.com/)。
 
-If you have technical questions, visit our  💬 **[Developer Forum](https://forumschinese.quectel.com/)**.
+## ⚡ 核心开发框架
 
-## ⚡ Core Development Frameworks
+ 移远核心开发框架为基于移远蜂窝模组 / 智能模组开发应用提供底层支撑，支持 C/C++ 以及 Python 开发。 
 
-Quectel core development frameworks provide foundations for building applications on Quectel cellular / smart modules, supporting C/C++ and Python‑based development.
+| 开发框架                   | 项目                                           |
+| -------------------------- | ---------------------------------------------- |
+| Python IoT Framework       | [QuecPython](https://github.com/quecpython)    |
+| MCU‑Module Interaction SDK | [UniKnect](https://github.com/quectel-develop) |
+| UniRTOS SDK                | [UniRTOS](https://github.com/unirtos)          |
 
-| Framework                  | Project                 |
-| -------------------------- | ----------------------- |
-| Python IoT Framework       | QuecPython              |
-| MCU‑Module Interaction SDK | UniKnect                |
-| UniRTOS SDK                | [UniRTOS](./unirtos.md) |
+## 🛠 VSCode 插件
 
-# Product Lines
+| 插件仓库                                                     | 描述                |
+| ------------------------------------------------------------ | ------------------- |
+| [qpy-vscode-extension-doc](https://github.com/quectel-tech/qpy-vscode-extension-doc) | QuecPython 官方插件 |
+| [qpi-vscode-extension-doc](https://github.com/quectel-tech/qpi-vscode-extension-doc) | Quectel Pi 官方插件 |
+| [unirtos-vscode-extension-doc](https://github.com/quectel-tech/unirtos-vscode-extension-doc) | UniRTOS 官方插件    |
+| [uniknect-vscode-extension-doc](https://github.com/quectel-tech/uniknect-vscode-extension-doc) | UniKnect 官方插件   |
 
-##  📶 Cellular Modules
+# 产品线
 
->  4G LTE / 5G NR / Cat.1 / NB‑IoT，面向工业、车载、安防等蜂窝联网场景 
+## 🧠 智慧物联网
 
-| Repo                  | Description                                   | Language |
-| --------------------- | --------------------------------------------- | -------- |
-| `quectel‑at‑examples` | AT command usage examples for cellular series | C/Python |
+| 仓库/组织                                   | 描述                                                         | 开发语言 |
+| ------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [Quectel Pi](https://github.com/quectel-pi) | Quectel Pi 提供搭载全套软件的智能控制板，面向高性能、低功耗物联网与边缘计算嵌入式解决方案。 | Python/C |
 
-##  🛰️ GNSS Positioning Modules
+##  📻 无线短距离
 
-| Repo                       | Description                                 | Language |
-| -------------------------- | ------------------------------------------- | -------- |
-| `quectel‑gnss‑demos`       | Position parsing, NMEA, RTK correction demo | C        |
-| `quectel‑gnss‑host‑driver` | MCU side driver for GNSS modules            | C        |
+>  Wi‑Fi / BLE
 
-##  📻 Short‑range Wireless
+欢迎访问：[移远短距离通信文档中心](https://developer.quectel.com/doc/shortrange/zh/index.html) 
 
->  Wi‑Fi / Bluetooth / BLE
+##  ☁️ 物联网云平台
 
-| Repo                   | Description                                                 | Language |
-| ---------------------- | ----------------------------------------------------------- | -------- |
-| `quectel‑wifi‑ble‑sdk` | Wi‑Fi & BLE application framework & peripheral demos        | C        |
-| `quectel‑ble‑examples` | BLE broadcast, connection, transparent transmission samples | C        |
+> 艾络迅™飞鸢物联网平台一站式接入，快速实现您的智能互联之旅
 
-##  🧠 Smart IoT
+欢迎访问：[艾络迅 - 科技连接未来](https://aiot.quectel.com/) 
 
-| Repo         | Description                               | Language |
-| ------------ | ----------------------------------------- | -------- |
-| `Quectel Pi` | QuecPython 官方运行时 & component library | Python/C |
+## 更多
 
-##  ☁️ Cloud Business
+ 如需进一步了解我们的开发框架、解决方案与代码库，请前往项目页面查看各项目简要说明。 
 
-| Repo                | Description                            | Language |
-| ------------------- | -------------------------------------- | -------- |
-| `quectel‑cloud‑sdk` | Multi‑cloud access SDK for IoT devices | C        |
-
-## More
-
-To know more about our frameworks, solutions and libraries, see brief explanation for our projects on **Quectel Projects Page**.
-
-🏢 To learn about full range of products and services that Quectel offers, please visit our official website [quectel.com.cn](https://www.quectel.com.cn/).
+🏢  如需了解移远通信的全系列产品与服务，请访问我们的官方网站：https://www.quectel.com.cn/。 
