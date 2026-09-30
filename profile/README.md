@@ -7,7 +7,6 @@
 [![New Org](https://img.shields.io/badge/GitHub-quectel--developer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quectel-developer)
 
 
-
 ## 📢 公告
 
 **为提供更优质的开发者资源与协作体验，**
@@ -21,6 +20,11 @@
 
 请将您的书签、本地 remote 地址、以及文档中的引用链接更新至新组织。
 
+
+## 🚀 快速开始
+
+[![Visit New Org](https://img.shields.io/badge/👉_立即访问新组织-181717?style=for-the-badge&color=00b4d8)](https://github.com/quectel-developer)
+[![Follow](https://img.shields.io/badge/⭐_Star_&_Follow_获取更新-ffd166?style=for-the-badge)](https://github.com/quectel-developer)
 
 
 ### 🔄 如何更新本地仓库地址
@@ -36,7 +40,6 @@ git remote -v
 ```
 
 
-
 ## 📦 迁移内容一览
 
 | 类别 | 说明 |
@@ -45,14 +48,6 @@ git remote -v
 | 🛠️ **开发工具** | 烧录工具、调试脚本与辅助 utilities |
 | 📖 **技术文档** | 开发者指南、集成教程与 FAQ |
 | 🤝 **协作项目** | 校企合作、开发者社区及开源贡献仓库 |
-
-
-
-## 🚀 快速开始
-
-[![Visit New Org](https://img.shields.io/badge/👉_立即访问新组织-181717?style=for-the-badge&color=00b4d8)](https://github.com/quectel-developer)
-[![Follow](https://img.shields.io/badge/⭐_Star_&_Follow_获取更新-ffd166?style=for-the-badge)](https://github.com/quectel-developer)
-
 
 
 ## 💬 反馈与支持
