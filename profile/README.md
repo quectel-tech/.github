@@ -1,4 +1,3 @@
-<div align="center">
 # 🏁 组织迁移公告
 
 ### Quectel Developer 已正式迁至全新 GitHub Organization
