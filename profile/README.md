@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,4 +9,4 @@
 <p>组织已迁移至：<a href="https://github.com/new-org">https://github.com/new-org</a></p>
 </body>
 </html>
-```
+
